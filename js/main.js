@@ -395,3 +395,7 @@ jQuery(window).load(function($) {
         jQuery(this).addClass('active');
     });
 });
+
+function bhd () {
+    window.alert("Happy birthday to my partner in crime, my soul sister from another mother, and the only person who truly gets my unique brand of crazy! They say friends are the family we choose, but with you, it's like the universe accidentally cloned us and forgot to tell us about it. From our side-splitting antics to our genius plans gone wrong, every moment with you is a comedy goldmine. Here's to another year of doubling over with laughter and navigating life's absurdities together. May your birthday be as fabulous and unforgettable as our most epic fails! Cheers to being the dynamic duo that even Batman and Robin would envy!");
+}
